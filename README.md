@@ -4,6 +4,9 @@ With [broccoli-sass-source-maps](https://github.com/aexmachina/broccoli-sass-sou
 a time. And because every operation runs afters the other has finished, this is can be very slow. This package
 transpiles the files simultaneously and therefore has significant performance improvements.
 
+Because [broccoli-sass-source-maps](https://github.com/aexmachina/broccoli-sass-source-maps) is used to compile the
+files you can use the same set of options as defined there. 
+
 ## Usage
 
 ```js
