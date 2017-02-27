@@ -1,5 +1,5 @@
 {
-  "name": "broccoli-sass-simultaenous",
+  "name": "broccoli-sass-simultaneous",
   "description": "Simultaneous sass compiler for Broccoli, using broccoli-sass-source-maps ",
   "main": "lib/index.js",
   "repository": {
