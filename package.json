@@ -1,0 +1,25 @@
+{
+  "name": "broccoli-sass-simultaenous",
+  "description": "Simultaneous sass compiler for Broccoli, using broccoli-sass-source-maps ",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genkgo/broccoli-sass-simultaenous.git"
+  },
+  "keywords": [
+    "broccoli",
+    "sass",
+    "simultaneous",
+    "async"
+  ],
+  "author": "Frederik Bosch <f.bosch@genkgo.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genkgo/broccoli-sass-simultaenous/issues"
+  },
+  "homepage": "https://github.com/genkgo/broccoli-sass-simultaenous#readme",
+  "dependencies": {
+    "broccoli-plugin": "^1.3.0",
+    "broccoli-sass-source-maps": "^2.0.0"
+  }
+}
