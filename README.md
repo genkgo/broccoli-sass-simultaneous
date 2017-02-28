@@ -11,7 +11,7 @@ files you can use the same set of options as defined there.
 ## Usage
 
 ```js
-var compileSass = require('broccoli-sass-source-maps');
+var compileSass = require('broccoli-sass-simultaneous');
 
 var outputTree = compileSass(inputTrees, inputToOutputMap, options);
 ```
